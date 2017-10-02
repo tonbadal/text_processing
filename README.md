@@ -10,3 +10,6 @@ Some text processing tools:
   3. Remove Stop Words
   4. Stem words
 
+### Dictionary
+
+To use these text processing tools a gensim dictionary needs to be created and saved (https://radimrehurek.com/gensim/corpora/dictionary.html). The dictionary must be created with preprocessed words.
